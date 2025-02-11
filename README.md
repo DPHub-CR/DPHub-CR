@@ -1,5 +1,4 @@
 <h3 align="center">[Coder]</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dphub&label=Profile%20views&color=0e75b6&style=flat" alt="dphub" /> </p>
 
